@@ -1,0 +1,14 @@
+{
+  "name": "three.js",
+  "version": "1.0.0",
+  "description": "three.js demo by Nua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nua",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.5.4"
+  }
+}
